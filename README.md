@@ -1,3 +1,9 @@
+**This repo contains the personal config for my Ender 3 Pro with BLTouch and Octoprint**
+
+It includes the tweaks suggested [here](https://www.reddit.com/r/ender3/comments/bnqkoq/a_follow_up_to_my_zitsblobs_solution_tips_post) to improve the performance of prints run when via Octoprint/a serial connection
+
+----------
+
 **This firmware is maintained by TH3D. The goal is an easy to use firmware for 3D printers that we have added support for.**
 
 **The issues queue has been disabled as some people do not understand it's for firmware problems and not technical support.**
